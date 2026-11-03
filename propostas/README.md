@@ -10,13 +10,14 @@
 - Margem mínima: 30%
 - Custo de referência: R$ 40 por pessoa + ajudante R$ 150 por evento
 - Até 3h de serviço incluídas; hora extra R$ 200
-- Transporte em Recife: + R$ 50 fixo (fora de Recife: combinar caso a caso)
+- Transporte em Recife: + R$ 50 fixo, cobre o custo real (carro próprio). Longe: valor maior combinado caso a caso
 - Sinal de 50% para reservar a data
-- Operação em parceria com a Mesa 8 (logo no rodapé da proposta)
+- Operação em parceria com a Mesa 8 (logo no rodapé da proposta). Todo o valor do evento vai para a Mesa 8; a Fomí traz o lead e a marca e recebe comissão
+- Forno elétrico, montagem 220V
 - Crianças e faixas de preço: deixar para depois
 
 ## Pendente de decisão
-- [ ] Custo real do segundo forno a gás e do transporte (hoje assumido R$ 50)
-- [ ] Regra de transporte para fora de Recife
-- [ ] Voltagem/potência do forno elétrico (para o item "Estrutura")
+- [ ] Comissão da Fomí com o Leo (na calculadora está 10% como exemplo)
+- [ ] O custo de R$ 40 por pessoa já inclui o pagamento do Leo?
+- [ ] Custo real do segundo forno a gás
 - [ ] Sabores de pizza doce
