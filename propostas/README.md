@@ -9,12 +9,14 @@
 - Eventos grandes: desconto negociado caso a caso (ver "Desconto máximo possível" na calculadora)
 - Margem mínima: 30%
 - Custo de referência: R$ 40 por pessoa + ajudante R$ 150 por evento
+- Até 3h de serviço incluídas; hora extra R$ 200
+- Transporte em Recife: + R$ 50 fixo (fora de Recife: combinar caso a caso)
+- Sinal de 50% para reservar a data
+- Operação em parceria com a Mesa 8 (logo no rodapé da proposta)
 - Crianças e faixas de preço: deixar para depois
 
 ## Pendente de decisão
-- [ ] Horas de serviço incluídas e preço da hora extra
-- [ ] Deslocamento incluso (km) e preço do km extra
-- [ ] Percentual do sinal para reservar a data
-- [ ] Custo real do segundo forno a gás e do combustível
+- [ ] Custo real do segundo forno a gás e do transporte (hoje assumido R$ 50)
+- [ ] Regra de transporte para fora de Recife
 - [ ] Voltagem/potência do forno elétrico (para o item "Estrutura")
 - [ ] Sabores de pizza doce

@@ -39,7 +39,13 @@ li em{font-style:normal;color:var(--grey);display:block;font-size:8.5pt}
 .mini span{font-weight:700;font-size:8.5pt;letter-spacing:.12em;text-transform:uppercase;opacity:.85;width:100%}
 .mini b{font-family:'Bricolage Grotesque';font-weight:800;font-size:20pt;letter-spacing:-.03em;line-height:1}
 .mini em{font-style:normal;font-size:10pt;font-weight:600}
-.price .note{font-size:8.5pt;opacity:.9}
+.rules{list-style:none;columns:1;margin-top:3mm;padding-top:2.5mm;border-top:1px solid rgba(255,255,255,.35)}
+.rules li{font-size:8.5pt;padding:.6mm 0 .6mm 3mm;border:0;line-height:1.3}
+.rules li:before{background:#fff;top:1.9mm;width:1.2mm;height:1.2mm}
+.brands{display:flex;align-items:center;gap:3mm}
+.brands i{font-style:normal;font-family:'Bricolage Grotesque';font-weight:800;color:var(--grey);font-size:12pt}
+.foot .brands img.m8{height:12mm}
+.brands span{font-size:8pt;color:var(--grey);line-height:1.3;margin-left:1mm}
 .next{margin-top:6mm;background:var(--card);border-radius:3mm;padding:5.5mm 6mm}
 .next h2{margin-top:1mm}
 .steps{display:grid;grid-template-columns:repeat(4,1fr);gap:3.5mm;margin-top:1mm}
@@ -92,7 +98,7 @@ li em{font-style:normal;color:var(--grey);display:block;font-size:8.5pt}
         <b>R$ 80<small> /pessoa</small></b>
         <p><strong>Valor mínimo por evento: <span style="white-space:nowrap">R$ 1.200,00</span></strong></p>
         <div class="mini"><span>Pacote mini</span><b>R$ 1.000</b><em>até 10 pessoas</em></div>
-        <p class="note">Eventos grandes têm condições especiais. Duração e deslocamento combinados no fechamento.</p>
+        <ul class="rules"><li>Até 3h de serviço · hora extra R$ 200</li><li>Transporte em Recife: + R$ 50</li><li>Reserva da data com sinal de 50%</li><li>Eventos grandes: condições especiais</li></ul>
       </div>
     </div>
   </div>
@@ -110,7 +116,7 @@ li em{font-style:normal;color:var(--grey);display:block;font-size:8.5pt}
   </div>
 
   <div class="foot">
-    <img src="logo/fomi_red.png" alt="fomí">
+    <div class="brands"><img src="logo/fomi_red.png" alt="fomí"><i>×</i><img class="m8" src="logo/mesa8.png" alt="Mesa 8"><span>Operação em parceria<br>com a Mesa 8</span></div>
     <div class="cta">Vamos fazer sua comemoração acontecer?<span>@fomibrasil</span></div>
   </div>
 </div>
